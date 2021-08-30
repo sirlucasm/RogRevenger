@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: e2147043aec036b479055f64a54776bf
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Body_diffuse
+    second: {fileID: 2800000, guid: f9f68fa252c2d6e47b0d02decd0dc048, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Body_gloss
+    second: {fileID: 2800000, guid: 2e490b754a3d7034f902cc9751b560ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Body_normal
+    second: {fileID: 2800000, guid: 7eb5cf1f5fd5640488d59e1352b1cc1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Body_specular
+    second: {fileID: 2800000, guid: b7466baf73437bf4bb77e76a276e8a41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Bottom_diffuse
+    second: {fileID: 2800000, guid: 02e6751543cf34245bc3a515148d689e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Bottom_gloss
+    second: {fileID: 2800000, guid: 837e03b5640974143957c63854be9f92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Bottom_normal
+    second: {fileID: 2800000, guid: 6eaec5867987ad64cb71da4c32204628, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Bottom_specular
+    second: {fileID: 2800000, guid: 9bd2f648179c1604eb9be84010ee24af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Glove_diffuse
+    second: {fileID: 2800000, guid: 24d177ca808cbd643a5fd274c2ec1d89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Glove_gloss
+    second: {fileID: 2800000, guid: 5e155da109024b542b126ee621f2110b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Glove_normal
+    second: {fileID: 2800000, guid: 1764487a6371bac418990dfcabe9fa68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Glove_specular
+    second: {fileID: 2800000, guid: 95ac66487a284204893e07bef6d8cc52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Hair_diffuse
+    second: {fileID: 2800000, guid: bf4b322fee8b33b4d96b18e16aa271d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Hair_gloss
+    second: {fileID: 2800000, guid: 6cac6b04c235caf4c8c881bea765bce8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Hair_normal
+    second: {fileID: 2800000, guid: 60d8b9fd961d93f449408710dc0caf7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Hair_specular
+    second: {fileID: 2800000, guid: 892a13c6fd679924e9a633e904a8ab38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Mask_diffuse
+    second: {fileID: 2800000, guid: cbc1d3020b8755e4281257de0719139c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Mask_gloss
+    second: {fileID: 2800000, guid: 52c2a06a2254a344e93526ed7665465d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Mask_normal
+    second: {fileID: 2800000, guid: 0bfaf3bd9f0f5634caac476f5f5f1ecb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Mask_specular
+    second: {fileID: 2800000, guid: e13425ab2e4737c499bfc57da39b9ef7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Moustache_diffuse
+    second: {fileID: 2800000, guid: be092f8acd21e6c4cb1141c8e277b1de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Moustache_gloss
+    second: {fileID: 2800000, guid: 9e3128dd1d879de4d8baf5a9679b0a45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Moustache_normal
+    second: {fileID: 2800000, guid: c5594e2577ebbc54aa0aa741c5d5a1d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Moustache_specular
+    second: {fileID: 2800000, guid: 87948e2238d744a4594e47765a382339, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Shoes_diffuse
+    second: {fileID: 2800000, guid: e2cb09c0cdcfa6444bc2393473560b25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Shoes_gloss
+    second: {fileID: 2800000, guid: 2b9ceb8a4494d34449cf3a47ea97403c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Shoes_normal
+    second: {fileID: 2800000, guid: 5477d18513870ab40a0d28066aad5758, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Shoes_specular
+    second: {fileID: 2800000, guid: 22cf7098f3ae29b4e8af883156abdb2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Top_diffuse
+    second: {fileID: 2800000, guid: f49461660c77f8743b448cdcb8eccf02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Top_gloss
+    second: {fileID: 2800000, guid: 6a1e60992a92f3b40a8ae7dd45bdb4ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Top_normal
+    second: {fileID: 2800000, guid: a491b74d9087f3d42b999bedc462191f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boby_Top_specular
+    second: {fileID: 2800000, guid: 1dea5177e0c37744ab3913922ff83f82, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
